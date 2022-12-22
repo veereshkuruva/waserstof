@@ -1,0 +1,25 @@
+
+h4{
+    text-align: center;
+    font-size: 1.4rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.add-topic{
+    text-align: center;
+    margin-top: 20px;
+   color: white;
+}
+
+.btn{
+    width: 100px;
+    color: lightgreen;
+    color: black;
+    font-size: 1.3rem;
+    height: 30px;
+    cursor: pointer;
+}
+input{
+    width:300px;
+    height: 30px;
+    margin: 20px;
+}

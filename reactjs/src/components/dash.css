@@ -1,0 +1,10 @@
+.dashboard{
+    text-align: center;
+}
+.addbtn{
+    width: 100px;
+    cursor: pointer;
+    margin: 20px;
+    height: 30px;
+    background-color: lightseagreen;
+}
